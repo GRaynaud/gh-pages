@@ -3,10 +3,42 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2020-06-10T21:59:56-04:00</updated>
     <author>
         <name>Gaétan Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Dataset and code availability</title>
+        <author>
+            <name>Gaétan Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/"/>
+        <id>https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/</id>
+            <category term="Science"/>
+
+        <updated>2020-06-10T21:58:44-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Open science is a key topic for today's research, as recent examples have depicted the difficulty of results reproductibility [1] in several scientific fields. More specifically, the long-term disponibility of experimental data is discussed in an interesting article [2] that leads to some proposals, for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Open science is a key topic for today's research, as recent examples have depicted the difficulty of results reproductibility [1] in several scientific fields.  More specifically, the long-term disponibility of experimental data is discussed in an interesting article [2] that leads to some proposals, for instance : </p>
+<ul>
+<li>A better identification of researchers, especially to be able to contact them even when the email address from the academic institution does not exist anymore</li>
+<li>Citable publications for dataset so that one does not need to carry out experiments or simuations that were already achieved. Also, it helps the acknowledgement of data generation work. It could also encourage to prepare, store and document data in a more structured and long-term strategy.</li>
+</ul>
+<p>As an example, I looked for a while for simulations data regarding a very basic configuration (2D laminar incompressible flow over a cylinder in a channel, a basic benchmark). I hoped to find geometry files, mesh and even, with a bit of confidence, results of computations with famous solvers (for instance Ansys, Abaqus, openFOAM...), from which I could start quickier my work. But in the end, I had very few success for this simple CFD case. This is annoying when one knows how much it can be time and power consuming to validate CFD results.</p>
+<p>Hence you will find on my github repository [3] some reports alongside numerical codes and data of my previous projects, when this is possible. When not specified otherwise, content is under licence GPL v3.0 [4] (among other things : free to use, modify and share, no warranty provided, attribution to authors).</p>
+<p> </p>
+<p>[1] Baker, Monya. "Reproducibility crisis?." <i>Nature</i> 533.26 (2016): 353-66. <abbr title="Digital Object Identifier">doi</abbr>:10.1038/533452a</p>
+<p>[2] Diehl, P., Tabiai, I., Baumann, F. W., Therriault, D., &amp; Levesque, M. (2018). Long term availability of raw experimental data in experimental fracture mechanics. <i>Engineering Fracture Mechanics</i>, <i>197</i>, 21-26. <a class="doi" href="https://doi.org/10.1016/j.engfracmech.2018.04.030" target="_blank" rel="noreferrer noopener" aria-label="Persistent link using digital object identifier" title="Persistent link using digital object identifier">doi.org/10.1016/j.engfracmech.2018.04.030</a></p>
+<p>[3] <a href="https://github.com/GRaynaud">https://github.com/GRaynaud</a></p>
+<p>[4] GNU GPL v3.0 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">https://www.gnu.org/licenses/gpl-3.0.en.html</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
