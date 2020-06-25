@@ -3,16 +3,16 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-06-24T20:19:24-04:00</updated>
+    <updated>2020-06-24T21:09:36-04:00</updated>
     <author>
-        <name>Gaétan Raynaud</name>
+        <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
     <entry>
         <title>Des flammes dans la nuit</title>
         <author>
-            <name>Gaétan Raynaud</name>
+            <name>G. Raynaud</name>
         </author>
         <link href="https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/"/>
         <id>https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/</id>
@@ -38,7 +38,7 @@
     <entry>
         <title>Évasion insulaire</title>
         <author>
-            <name>Gaétan Raynaud</name>
+            <name>G. Raynaud</name>
         </author>
         <link href="https://GRaynaud.github.io/gh-pages/evasion-insulaire/"/>
         <id>https://GRaynaud.github.io/gh-pages/evasion-insulaire/</id>
@@ -67,7 +67,7 @@
     <entry>
         <title>Dataset and code availability</title>
         <author>
-            <name>Gaétan Raynaud</name>
+            <name>G. Raynaud</name>
         </author>
         <link href="https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/"/>
         <id>https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/</id>
