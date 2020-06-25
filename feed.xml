@@ -3,12 +3,40 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-06-24T21:11:10-04:00</updated>
+    <updated>2020-06-25T09:29:20-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Rencontre sur les cimes</title>
+        <author>
+            <name>G. Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/rencontre-sur-les-cimes/"/>
+        <id>https://GRaynaud.github.io/gh-pages/rencontre-sur-les-cimes/</id>
+            <category term="Literature (french)"/>
+            <category term="30 Days Writing Challenge"/>
+
+        <updated>2020-06-25T09:29:03-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Toujours pour le challenge des 30 jours, un triplet de quatrains en temps limité avec deux contraintes. Le thème : Everest et un mot à placer : "hiémal" (qui est relatif à l'hiver). Je me mis à rêver, gravissant l’Everest, D’un face à face étrange&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Toujours pour le challenge des 30 jours, un triplet de quatrains en temps limité avec deux contraintes. Le thème : Everest et un mot à placer : "hiémal" (qui est relatif à l'hiver).</p>
+<hr>
+<p>Je me mis à rêver, gravissant l’Everest,<br>D’un face à face étrange avec un animal<br>Terrible. Je siégeais sur le zist et le zest<br>Comme pris d’un vertige infinitésimal.</p>
+<p>Ce fieffé fort et grand, sa griffe sans conteste<br>M’eût vite expédié dans l’espace abismal ;<br>Ou m’eût-il préféré un destin plus funeste<br>De finir embroché par ce monstre brumal.</p>
+<p>Je laisse l’anormal pour rallier le céleste.<br>Ce Yéti titanesque au gouffre fantomal<br>Y restera sans mal. Je m’en vais d’un pas preste<br>Miroiter les sillons du ciel hiémal.  </p>
+<p> </p>
+<p>G.R. Juin 2020, Montréal</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Des flammes dans la nuit</title>
         <author>
