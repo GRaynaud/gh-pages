@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/",
+            "url": "https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/",
+            "title": "Des flammes dans la nuit",
+            "summary": "Dans la série du défi des 30 jours de poésie avec Cyril et Antoine, voici quelques vers rédigés dans le temps d'une journée et dont le thème imposé est \"pompier\". Le bourg dans l’obscurité S’endort, insouciamment. Et lui, pendant sa nuitée Veille au moindre foudroiement.",
+            "content_html": "<p>Dans la série du défi des 30 jours de poésie avec Cyril et Antoine, voici quelques vers rédigés dans le temps d'une journée et dont le thème imposé est \"pompier\".</p>\n<hr>\n<p>Le bourg dans l’obscurité<br>S’endort, insouciamment.<br>Et lui, pendant sa nuitée<br>Veille au moindre foudroiement.</p>\n<p>Caserné dans la cité<br>On le prive d’être amant ;<br>Car c’est avec probité<br>Qu’il bataille brillamment.</p>\n<p>Les flammèches délitées<br>Fulminent de filaments<br>Eclairant le ciel d’été.<br>Il faut partir prestement !</p>\n<p>Voilà sa réalité :<br>Vaincre le feu vaillamment.<br>Des héros nous ont quittés…<br>Embrassant le firmament.  </p>\n<p>G.R. Juin 2020, Montréal</p>",
+            "author": {
+                "name": "Gaétan Raynaud"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-24T20:17:21-04:00",
+            "date_modified": "2020-06-24T20:18:29-04:00"
+        },
+        {
+            "id": "https://GRaynaud.github.io/gh-pages/evasion-insulaire/",
+            "url": "https://GRaynaud.github.io/gh-pages/evasion-insulaire/",
+            "title": "Évasion insulaire",
+            "summary": "Dans la série du défi des 30 jours de poésie avec Cyril et Antoine, voici un essai dont le thème imposé est \"île déserte\" et rédigé dans le temps d'une journée. Le réveil, étourdi, de mes sens en alerte, Je tâte l’étendue de sable recouverte&hellip;",
+            "content_html": "<p>Dans la série du défi des 30 jours de poésie avec Cyril et Antoine, voici un essai dont le thème imposé est \"île déserte\" et rédigé dans le temps d'une journée.</p>\n<hr>\n<p>Le réveil, étourdi, de mes sens en alerte,<br>Je tâte l’étendue de sable recouverte <br>Et l’odeur iodée flottant de l’onde verte…<br>Me voilà atterri sur une île déserte !</p>\n<p>Dois-je craindre une bête à l’appétit vorace ?<br>Dans quelle direction trouverais-je bien grâce ?<br>L’aplomb fatal de l’astre ardent déjà harasse…<br>Impossible, hélas, de s’enfuir à la brasse.</p>\n<p>Vite il me faut, avant que la folie ne guette,<br>M’arranger un abri de feuilles et haguettes<br>Et un socle seyant pour la scène qui choit :</p>\n<p>Mon orchestre étoilé lance sa symphonie :<br>Une valse avec la Voie Lactée, agonie<br>Qu’efface une vague en une ode à la joie.</p>\n<p> </p>\n<p>G.R. Juin 2020, Montréal</p>",
+            "author": {
+                "name": "Gaétan Raynaud"
+            },
+            "tags": [
+                   "Literature (french)",
+                   "30 Days Writing Challenge"
+            ],
+            "date_published": "2020-06-24T20:10:40-04:00",
+            "date_modified": "2020-06-24T20:10:40-04:00"
+        },
+        {
             "id": "https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/",
             "url": "https://GRaynaud.github.io/gh-pages/dataset-code-availability-github/",
             "title": "Dataset and code availability",
