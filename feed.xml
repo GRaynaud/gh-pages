@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-06-24T21:09:36-04:00</updated>
+    <updated>2020-06-24T21:11:10-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/"/>
         <id>https://GRaynaud.github.io/gh-pages/des-flammes-dans-la-nuit/</id>
+            <category term="Literature (french)"/>
+            <category term="30 Days Writing Challenge"/>
 
-        <updated>2020-06-24T20:18:29-04:00</updated>
+        <updated>2020-06-24T21:11:05-04:00</updated>
             <summary>
                 <![CDATA[
                     Dans la série du défi des 30 jours de poésie avec Cyril et Antoine, voici quelques vers rédigés dans le temps d'une journée et dont le thème imposé est "pompier". Le bourg dans l’obscurité S’endort, insouciamment. Et lui, pendant sa nuitée Veille au moindre foudroiement.
