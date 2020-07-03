@@ -3,12 +3,40 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-06-26T12:33:12-04:00</updated>
+    <updated>2020-07-03T12:49:31-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Escalier musical</title>
+        <author>
+            <name>G. Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/escalier-musical/"/>
+        <id>https://GRaynaud.github.io/gh-pages/escalier-musical/</id>
+            <category term="Literature (french)"/>
+            <category term="30 Days Writing Challenge"/>
+
+        <updated>2020-07-03T12:49:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Voici un court essai de vers rhopaliques proposés pour notre défi, toujours en temps limité. Dans sa version classique, la contrainte consiste à produire des vers dont le nombre de syllabes augmente puis diminue d'un en un. En guise d'exemple, Mon Mont Olympe qui fut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Voici un court essai de vers rhopaliques proposés pour notre défi, toujours en temps limité. Dans sa version classique, la contrainte consiste à produire des vers dont le nombre de syllabes augmente puis diminue d'un en un. En guise d'exemple, <a href="https://lashoun.com/writing/mon-mont-olympe/" target="_blank" rel="noopener noreferrer">Mon Mont Olympe</a> qui fut une inspiration. Petite liberté : je me suis permis de dédoubler les vers afin d'insuffler davantage de rythme.</p>
+<p>Le <br>La <br>Frileux <br>Héla <br>L’inconnue <br>Qui marchait. <br>Ce son tenu <br>N’a point d’archet <br>Pour le faire vivre. <br>Il faut force souffle <br>Pour éveiller ce cuivre <br>Qu’on eût dit un baroufle !</p>
+<p>Sur les lèvres vermillon <br>Comme un papillon s’envole ; <br>Puis des pistons au pavillon <br>Surgit une note frivole.</p>
+<p>Sous chaque pas de la passagère <br>Erre la mélopée. Là, hissé, <br>File un nuage d’où une légère <br>Marche douce et leste s’est esquissée.</p>
+<p>Qu’il m’est heureux de balayer l’alalie <br>Quand viennent à nous les ennuis, les tempêtes ; <br>Voici mon remède à l’actuel hallali : <br>La prosodie trempée que chante une trompette.  </p>
+<p> </p>
+<p>G.R. Juin 2020 Montréal</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rencontre sur les cimes</title>
         <author>
