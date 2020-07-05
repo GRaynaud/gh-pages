@@ -3,12 +3,40 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-07-03T12:49:31-04:00</updated>
+    <updated>2020-07-04T20:07:53-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Fredonnement</title>
+        <author>
+            <name>G. Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/fredonnement/"/>
+        <id>https://GRaynaud.github.io/gh-pages/fredonnement/</id>
+            <category term="Literature (french)"/>
+            <category term="30 Days Writing Challenge"/>
+
+        <updated>2020-07-04T20:07:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Vaincre l’ennui : voilà l’audacieux programme ; Soupeser chaque son, ses consonnes rugueuses, Savourer le frisson de voyelles fougueuses ; La poésie nous offre à tous les vers un brame. Je la crois dévouée à tant d’inavouable, Attente délétère où l’on tente un accord,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Vaincre l’ennui : voilà l’audacieux programme ;<br>Soupeser chaque son, ses consonnes rugueuses,<br>Savourer le frisson de voyelles fougueuses ;<br>La poésie nous offre à tous les vers un brame.</p>
+<p>Je la crois dévouée à tant d’inavouable,<br>Attente délétère où l’on tente un accord,<br>Une cadence, un air inouï et accort<br>Qui clora l’envolée d’un soliste insatiable.</p>
+<p>Sur ma portée les mots peinent à accoucher.<br>Où a pu se cacher ma muse effarouchée ?<br>Je pars à sa recherche et ma plume griffonne.</p>
+<p>Emporté par sa voix dont les mélodies fusent,<br>Elle décrit le galbe en soupirant, confuse ;<br>L'aveu évaporé sous un sourire aphone.</p>
+<p> </p>
+<p>G.R. Montréal 2020</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Escalier musical</title>
         <author>

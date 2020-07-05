@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://GRaynaud.github.io/gh-pages/fredonnement/",
+            "url": "https://GRaynaud.github.io/gh-pages/fredonnement/",
+            "title": "Fredonnement",
+            "summary": " Vaincre l’ennui : voilà l’audacieux programme ; Soupeser chaque son, ses consonnes rugueuses, Savourer le frisson de voyelles fougueuses ; La poésie nous offre à tous les vers un brame. Je la crois dévouée à tant d’inavouable, Attente délétère où l’on tente un accord,&hellip;",
+            "content_html": "<p> </p>\n<p>Vaincre l’ennui : voilà l’audacieux programme ;<br>Soupeser chaque son, ses consonnes rugueuses,<br>Savourer le frisson de voyelles fougueuses ;<br>La poésie nous offre à tous les vers un brame.</p>\n<p>Je la crois dévouée à tant d’inavouable,<br>Attente délétère où l’on tente un accord,<br>Une cadence, un air inouï et accort<br>Qui clora l’envolée d’un soliste insatiable.</p>\n<p>Sur ma portée les mots peinent à accoucher.<br>Où a pu se cacher ma muse effarouchée ?<br>Je pars à sa recherche et ma plume griffonne.</p>\n<p>Emporté par sa voix dont les mélodies fusent,<br>Elle décrit le galbe en soupirant, confuse ;<br>L'aveu évaporé sous un sourire aphone.</p>\n<p> </p>\n<p>G.R. Montréal 2020</p>",
+            "author": {
+                "name": "G. Raynaud"
+            },
+            "tags": [
+                   "Literature (french)",
+                   "30 Days Writing Challenge"
+            ],
+            "date_published": "2020-07-04T20:05:05-04:00",
+            "date_modified": "2020-07-04T20:07:46-04:00"
+        },
+        {
             "id": "https://GRaynaud.github.io/gh-pages/escalier-musical/",
             "url": "https://GRaynaud.github.io/gh-pages/escalier-musical/",
             "title": "Escalier musical",
