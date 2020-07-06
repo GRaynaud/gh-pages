@@ -3,12 +3,38 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-07-04T20:07:53-04:00</updated>
+    <updated>2020-07-06T18:27:46-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Un soupçon de cuisine</title>
+        <author>
+            <name>G. Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/un-soupcon-de-cuisine/"/>
+        <id>https://GRaynaud.github.io/gh-pages/un-soupcon-de-cuisine/</id>
+            <category term="Literature (french)"/>
+            <category term="30 Days Writing Challenge"/>
+
+        <updated>2020-07-06T18:27:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Il n’est rien de meilleur que la pâtisserie : D’abord pétrir la pâte en un berceau fécond, Y disposer des fruits, du sucre, du lait qu’on Enfourne une courte heure où joue la féerie. Oui, la voilà qui monte ! Et la voilà qui dore&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Il n’est rien de meilleur que la pâtisserie :<br>D’abord pétrir la pâte en un berceau fécond,<br>Y disposer des fruits, du sucre, du lait qu’on<br>Enfourne une courte heure où joue la féerie.</p>
+<p>Oui, la voilà qui monte ! Et la voilà qui dore !<br>Ce festin qui s’annonce aux arômes friands :<br>La couronne scintille et les bords croustillants<br>M’enivrent tant, qu’assis au sol, je m’y endors.</p>
+<p>Le spectacle s’achève en délivrant l’étuve<br>Et l’appétit décroît sans qu’on n’ait rien goûté ;<br>Si bien qu’un petit four a le don d’envoûter<br>Comme une offrande auguste élevée par l’effluve.</p>
+<p>G.R. Montréal, 2020</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fredonnement</title>
         <author>
@@ -19,7 +45,7 @@
             <category term="Literature (french)"/>
             <category term="30 Days Writing Challenge"/>
 
-        <updated>2020-07-04T20:07:46-04:00</updated>
+        <updated>2020-07-04T20:16:58-04:00</updated>
             <summary>
                 <![CDATA[
                      Vaincre l’ennui : voilà l’audacieux programme ; Soupeser chaque son, ses consonnes rugueuses, Savourer le frisson de voyelles fougueuses ; La poésie nous offre à tous les vers un brame. Je la crois dévouée à tant d’inavouable, Attente délétère où l’on tente un accord,&hellip;
