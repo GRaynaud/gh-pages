@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-07-19T15:59:59-04:00</updated>
+    <updated>2020-07-19T16:01:50-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://GRaynaud.github.io/gh-pages/making-references-easier-in-latex/</id>
             <category term="Science"/>
 
-        <updated>2020-07-19T15:59:54-04:00</updated>
+        <updated>2020-07-19T16:01:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://GRaynaud.github.io/gh-pages/media/posts/9/IMG_20200719_151404550.jpg" alt="" />
@@ -63,11 +63,11 @@
 </pre>
 <p>Don't hesitate if you have ideas of improvements or questions. The code is publicly available at my github [3].</p>
 <p> </p>
-<p>[1] Simplifying the management of scientific reference and citation with a minimalist DOI-BibTex-LaTeX approach, Wei Li, dx.doi.org/10.15761/CMID.1000139</p>
+<p>[1] Simplifying the management of scientific reference and citation with a minimalist DOI-BibTex-LaTeX approach, Wei Li, <a href="dx.doi.org/10.15761/CMID.1000139">dx.doi.org/10.15761/CMID.1000139</a></p>
 <p>[2] arxiv2bib repository package, <a href="https://pypi.org/project/arxiv2bib/" rel="nofollow">https://pypi.org/project/arxiv2bib/</a></p>
 <p>[3] My GitHub repository <a href="https://github.com/GRaynaud/doi-arxiv-to-bibtex-refs">https://github.com/GRaynaud/doi-arxiv-to-bibtex-refs</a></p>
 <p>[4] Bibliography management with bibtex, Overleaf documentation <a href="https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex">https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex</a></p>
-<p>[5] https://www.doi.org/factsheets/DOIKeyFacts.html</p>
+<p>[5] <a href="dx.doi.org/10.15761/CMID.1000139">https://www.doi.org/factsheets/DOIKeyFacts.html</a></p>
             ]]>
         </content>
     </entry>
