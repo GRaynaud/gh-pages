@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-07-17T16:29:12-04:00</updated>
+    <updated>2020-07-19T15:58:08-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
@@ -18,19 +18,22 @@
         <id>https://GRaynaud.github.io/gh-pages/making-references-easier-in-latex/</id>
             <category term="Science"/>
 
-        <updated>2020-07-17T16:27:12-04:00</updated>
+        <updated>2020-07-19T15:57:59-04:00</updated>
             <summary>
                 <![CDATA[
-                    The usual way of citing references in Latex could be made easier by using directly the doi (unique identifier) as explained by [1], instead of giving a reference key linked to a dictionnary in a .bib file that you have either to to construct by&hellip;
+                        <img src="https://GRaynaud.github.io/gh-pages/media/posts/9/IMG_20200719_151404550.jpg" alt="" />
+                    Scientific knowledge is built "on the shoulders of giants", to paraphrase de Chartres. Hence the need for appropriate referencing of the work of researchers around the world. To meet this need, the scientific community has adopted citation standards and tools to identify publications. Among these,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The usual way of citing references in Latex could be made easier by using directly the doi (unique identifier) as explained by [1], instead of giving a reference key linked to a dictionnary in a .bib file that you have either to  to construct by hand or to export from your favorite references manager. And this has to be carried out every time a new reference is added to your draft or your dissertation.</p>
-<p>Besides, I start to have an extended collection of articles in my Zotero... So when I export it to a bibtex file, there are several unused references.</p>
-<p>This is a bit a shame as most of cited content in scientific litterature has an unique id that could serve directly as a reference key. This is what is proposed in the example from my github [3] where I adapted python codes from [1] and [2]. This goes along from a Latex demo (inspired from Overleaf documentation [4]). In order to run it, just execute the script in Python_libs/Split.py and it will generate a .bib reference file.</p>
-<p>The script browses all the .tex files contained in the directories and sub-directories. It detects the citation keys <code>\cite{key}</code> in either DOI or arXiv id format. For each identifier, the information is retrieved and a .bib file is generated. A list of existing reference files .bib can be merged with the new file.</p>
-<p>As an exemple, if you use arXiv format <code>\cite{2003.02751}</code> or a doi <code>\cite{10.1016/j.jcp.2018.10.045}</code>, the following information will be added in the generated .bib file</p>
+                    <img src="https://GRaynaud.github.io/gh-pages/media/posts/9/IMG_20200719_151404550.jpg" alt="" />
+                <p>Scientific knowledge is built "on the shoulders of giants", to paraphrase de Chartres. Hence the need for appropriate referencing of the work of researchers around the world. To meet this need, the scientific community has adopted citation standards and tools to identify publications. Among these, the doi (Digital Object Identifier, a unique and formatted character string) has been in use since 2000 [5]. But currently, when writing a report, a thesis or an article with \( \LaTeX \), a popular formatting language, an external tool is needed to gather bibliographic information by ourselves. This could be done automatically by directly using such unique identifiers.</p>
+<p>This statement is presented and explained in this short paper [1]. Basically, the idea is to refer to a publication with a direct, unique and global id, instead of giving a reference key linked to a dictionnary in a .bib file that might change from one project to another. This Bibtex file must either be constructed by hand or be exported from your favorite references manager. And this has to be carried out every time a new reference is added to your draft or your dissertation.</p>
+<p>Besides, I start to have an extended collection of articles in my Zotero... So when I export a folder to a bibtex file, there are several unused references so it can make it unnecessarily weighty. And more problematically, there also might some omissions... that lead to errors while compiling the Latex project.</p>
+<p>This is a bit a shame as most of cited content in scientific litterature has an unique id that could serve directly as the reference key for Bibtex. This is what is proposed in the example from my github [3] where I adapted python codes from [1] and [2]. This goes along from a Latex demo (inspired from Overleaf documentation [4]). In order to run it, just execute the script in <code>Python_libs/Split.py</code> and it will generate a .bib reference file.</p>
+<p>The script browses all the .tex files contained in the directories and sub-directories of your Latex project. It detects the citation keys <code>\cite{key}</code> in either DOI or arXiv id format. For each identifier, the information is retrieved and a .bib file is generated. A list of existing reference files .bib can be merged with the new file (in case there is no arXiv/doi id).</p>
+<p>As an exemple, if you use arXiv format <code>\cite{2003.02751v2}</code> or a doi <code>\cite{10.1016/j.jcp.2018.10.045}</code>, the following information will be added in the generated .bib file</p>
 <pre> @article{2003.02751v2, 
   Author = {Ehsan Haghighat and Maziar Raissi and Adrian Moure and Hector Gomez and Ruben Juanes}, 
   Title = {A deep learning framework for solution and discovery in solid mechanics},
@@ -46,18 +49,25 @@
 <p>The arXiv format detection and retrieving uses the library arxiv2bib [2].</p>
 <p>I adapted a code from [1] with some changes as :</p>
 <ul>
-<li>Verification for doi format</li>
+<li>Format verification for doi format</li>
 <li>Replacing the usual reference key by the doi so that it matches the \cite{doi} and nothing is to change in the Latex document</li>
 <li>Proper export to bib file and merging with an existing bibtex dictionnary</li>
 <li>Sub folder checking for .tex files research</li>
 <li>arXiv id support thanks to arxiv2bib module</li>
 <li>Adding some comments</li>
 </ul>
+<p>Then the idea might be to launch it during Latex compilation. This could be done with adding this piece of code in your main .tex file :</p>
+<pre>\usepackage{python}
+\begin{python}[Python_libs/Split.py]
+\end{python}
+</pre>
+<p>Don't hesitate if you have ideas of improvements or questions. The code is publicly available at my github [3].</p>
+<p> </p>
 <p>[1] Simplifying the management of scientific reference and citation with a minimalist DOI-BibTex-LaTeX approach, Wei Li, dx.doi.org/10.15761/CMID.1000139</p>
 <p>[2] arxiv2bib repository package, <a href="https://pypi.org/project/arxiv2bib/" rel="nofollow">https://pypi.org/project/arxiv2bib/</a></p>
 <p>[3] My GitHub repository <a href="https://github.com/GRaynaud/doi-arxiv-to-bibtex-refs">https://github.com/GRaynaud/doi-arxiv-to-bibtex-refs</a></p>
 <p>[4] Bibliography management with bibtex, Overleaf documentation <a href="https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex">https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex</a></p>
-<p> </p>
+<p>[5] https://www.doi.org/factsheets/DOIKeyFacts.html</p>
             ]]>
         </content>
     </entry>
