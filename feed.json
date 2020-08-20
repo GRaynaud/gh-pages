@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://GRaynaud.github.io/gh-pages/le-printemps-du-jeune-age/",
+            "url": "https://GRaynaud.github.io/gh-pages/le-printemps-du-jeune-age/",
+            "title": "Le printemps du jeune âge",
+            "summary": " Le vent dans les cheveux je valse entre les gens. Une famille entière est assise en tailleur Et il flotte dans l’air un parfum d’un ailleurs Où la foule fournit des bienfaits diligents. Plus loin on rit, on danse et l’on boit goulûment. Les&hellip;",
+            "content_html": "<p> </p>\n<p>Le vent dans les cheveux je valse entre les gens. <br>Une famille entière est assise en tailleur<br>Et il flotte dans l’air un parfum d’un ailleurs<br>Où la foule fournit des bienfaits diligents.</p>\n<p>Plus loin on rit, on danse et l’on boit goulûment.<br>Les ribambelles font de charmants bavardages<br>Qui raillent sagement de l’âge d’un adage<br>Dont on joue pour ravir comme d’un instrument.</p>\n<p>J’aime voir en passant cette jeunesse éclore<br>Et refaire le monde en jasant de mots doux,<br>Se moquer du vieux temps et sauter dans l’eau d’où<br>Une fontaine siffle un froufrou incolore.</p>\n<p>G.R., Montréal, Juillet-Août 2020</p>",
+            "author": {
+                "name": "G. Raynaud"
+            },
+            "tags": [
+                   "Literature (french)"
+            ],
+            "date_published": "2020-08-19T21:25:02-04:00",
+            "date_modified": "2020-08-19T21:25:02-04:00"
+        },
+        {
             "id": "https://GRaynaud.github.io/gh-pages/making-references-easier-in-latex/",
             "url": "https://GRaynaud.github.io/gh-pages/making-references-easier-in-latex/",
             "title": "Making references easier in Latex",

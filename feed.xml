@@ -3,12 +3,37 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2020-07-20T15:06:40-04:00</updated>
+    <updated>2020-08-19T21:25:11-04:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
     <id>https://GRaynaud.github.io/gh-pages</id>
 
+    <entry>
+        <title>Le printemps du jeune âge</title>
+        <author>
+            <name>G. Raynaud</name>
+        </author>
+        <link href="https://GRaynaud.github.io/gh-pages/le-printemps-du-jeune-age/"/>
+        <id>https://GRaynaud.github.io/gh-pages/le-printemps-du-jeune-age/</id>
+            <category term="Literature (french)"/>
+
+        <updated>2020-08-19T21:25:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Le vent dans les cheveux je valse entre les gens. Une famille entière est assise en tailleur Et il flotte dans l’air un parfum d’un ailleurs Où la foule fournit des bienfaits diligents. Plus loin on rit, on danse et l’on boit goulûment. Les&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Le vent dans les cheveux je valse entre les gens. <br>Une famille entière est assise en tailleur<br>Et il flotte dans l’air un parfum d’un ailleurs<br>Où la foule fournit des bienfaits diligents.</p>
+<p>Plus loin on rit, on danse et l’on boit goulûment.<br>Les ribambelles font de charmants bavardages<br>Qui raillent sagement de l’âge d’un adage<br>Dont on joue pour ravir comme d’un instrument.</p>
+<p>J’aime voir en passant cette jeunesse éclore<br>Et refaire le monde en jasant de mots doux,<br>Se moquer du vieux temps et sauter dans l’eau d’où<br>Une fontaine siffle un froufrou incolore.</p>
+<p>G.R., Montréal, Juillet-Août 2020</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Making references easier in Latex</title>
         <author>
