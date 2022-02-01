@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://GRaynaud.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://GRaynaud.github.io/gh-pages" />
-    <updated>2021-04-23T08:53:55-04:00</updated>
+    <updated>2022-02-01T21:21:12+01:00</updated>
     <author>
         <name>G. Raynaud</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://GRaynaud.github.io/gh-pages/communications/"/>
         <id>https://GRaynaud.github.io/gh-pages/communications/</id>
 
-        <updated>2021-04-23T08:53:24-04:00</updated>
+        <updated>2022-02-01T21:21:04+01:00</updated>
             <summary>
                 <![CDATA[
-                    Here is an informal list of scientific communications. For any question, feel free to contact me. On my work on Physics-Informed Neural Networks (PINN) with Profs. Frédérick Gosselin and Sébastien Houde : Technical trainings : Random scientific presentation (not on a specific topic I was&hellip;
+                    Here is an informal list of scientific communications. For any question, feel free to contact me. On my work on Physics-Informed Neural Networks (PINN) with Profs. Frédérick Gosselin and Sébastien Houde : Technical trainings : Invited talk : Random scientific presentation (not on a specific&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,10 +31,17 @@
 <li><em>An introduction to PINNs</em>, LM2 Lab meeting (May 2020)</li>
 <li><em>An extension of PINNs with a modal approach</em>, IVADO Octobre Numérique (Oct. 2020) - <a href="https://GRaynaud.github.io/gh-pages/ivado-presentation/">more details</a> - <a href="https://www.youtube.com/watch?v=uJHcULXF1HE" target="_blank" rel="noopener noreferrer">replay</a>.</li>
 <li><em>Simplifying Physics Informed Neural Networks in case of periodicity to address low quality and sparse data while solving differential equations : an application in fluid dynamics</em>, APS March 2021 - <a href="https://meetings.aps.org/Meeting/MAR21/Session/X05.11" target="_blank" rel="noopener noreferrer">abstract </a>- <a href="https://www.youtube.com/watch?v=AvPMY7LthDg" target="_blank" rel="noopener noreferrer">replay</a>.</li>
+<li><em>ModalPINN: an extension of Physics-Informed Neural Networks with enforced truncated Fourier decomposition for periodic flow reconstruction using a limited number of imperfect sensors</em>, preprint submitted to Journal of Computational Physics in July 2021 - <a href="https://arxiv.org/abs/2108.08929" target="_blank" rel="noopener noreferrer">arxiv</a> - <a href="https://github.com/GRaynaud/ModalPINN_Python_code" target="_blank" rel="noopener noreferrer">code on github</a>.</li>
+<li>MSc's presentation on August, 23rd 2021 - <a href="https://www.youtube.com/watch?v=bPoyVYEd8Bc" target="_blank" rel="noopener noreferrer">replay</a>.</li>
+<li><em>Study of Physics-Informed Neural Networks to Solve Fluid-Structure Problems for Turbine-like Phenomena</em> - master thesis at Polytechnique Montréal - <a href="https://GRaynaud.github.io/gh-pages/media/files/MSc_Thesis_Gaetan_Raynaud_PINN.pdf" target="_blank" rel="noopener noreferrer">pdf</a>. </li>
 </ul>
 <p>Technical trainings :</p>
 <ul>
 <li><em>Presenting on a lightboard</em>, LM2 Lab meeting (April 2021)</li>
+</ul>
+<p>Invited talk :</p>
+<ul>
+<li><em>Insights on machine learning for CFD and an introduction to physics-informed neural networks</em>, Mai 20th 2021 for the Simulation Based Engineering Science program at Polytechnique Montréal - <a href="https://www.youtube.com/watch?v=4t7lYQ5Luvo" target="_blank" rel="noopener noreferrer">replay</a>.</li>
 </ul>
 <p>Random scientific presentation (not on a specific topic I was working on...) :</p>
 <ul>
@@ -53,7 +60,7 @@
         <id>https://GRaynaud.github.io/gh-pages/dune-pensee-a-lautre/</id>
             <category term="Literature (french)"/>
 
-        <updated>2021-03-27T20:15:49-04:00</updated>
+        <updated>2021-03-28T01:15:49+01:00</updated>
             <summary>
                 <![CDATA[
                     Inspiré de думающий человек, de Роман Сеф D'une pensée à l'autre, éparses d'un sursaut, Deux pétales s'enfuient et filent dans le temps. Vers le futur l'un fit une impression de sot Et le second se vautre aux louanges d’antan. Qu'on ne siée qu'au présent qui&hellip;
@@ -78,7 +85,7 @@
         <id>https://GRaynaud.github.io/gh-pages/dans-lombre-du-sublime/</id>
             <category term="Literature (french)"/>
 
-        <updated>2021-03-27T20:12:28-04:00</updated>
+        <updated>2021-03-28T01:12:28+01:00</updated>
             <summary>
                 <![CDATA[
                     "Je sais bien qu'il est d'usage..." Hugo Au loin l’œil en peine eût vu voguer l’horizon, S’il fût Homme, ses maux divaguer sans raison. Mais au loin luit tantôt ce fléau qui malmène Et clairsème tantôt une sombre âme humaine Qui vit à tout moment&hellip;
@@ -109,7 +116,7 @@
         <id>https://GRaynaud.github.io/gh-pages/une-comptine-de-noel/</id>
             <category term="Literature (french)"/>
 
-        <updated>2021-03-27T20:05:16-04:00</updated>
+        <updated>2021-03-28T01:05:16+01:00</updated>
             <summary>
                 <![CDATA[
                     A l'heure où l'hiver tire sa révérence au Québec, un peu de tri dans mes carnets me rappelle une missive écrite l'an passé pour les enfants d'une connaissance. Cette lettre s'adresse à un lutin farceur qui se cache chez cette famille. En jouant de mots&hellip;
@@ -139,7 +146,7 @@
         <id>https://GRaynaud.github.io/gh-pages/ivado-presentation/</id>
             <category term="Science"/>
 
-        <updated>2020-10-23T15:17:39-04:00</updated>
+        <updated>2020-10-23T21:17:39+02:00</updated>
             <summary>
                 <![CDATA[
                     Last friday, on October 22nd 2020, was held the third part of a virtual meeting by IVADO entitled "Digital October". This session was dedicated to "Tommorow's algorithm" with 6 student's presentations [1]. This conference was targetting a fairly large audience with students, researchers and industrialists,&hellip;
@@ -165,7 +172,7 @@
         <id>https://GRaynaud.github.io/gh-pages/le-printemps-du-jeune-age/</id>
             <category term="Literature (french)"/>
 
-        <updated>2020-08-19T21:25:02-04:00</updated>
+        <updated>2020-08-20T03:25:02+02:00</updated>
             <summary>
                 <![CDATA[
                      Le vent dans les cheveux je valse entre les gens. Une famille entière est assise en tailleur Et il flotte dans l’air un parfum d’un ailleurs Où la foule fournit des bienfaits diligents. Plus loin on rit, on danse et l’on boit goulûment. Les&hellip;
@@ -190,7 +197,7 @@
         <id>https://GRaynaud.github.io/gh-pages/making-references-easier-in-latex/</id>
             <category term="Science"/>
 
-        <updated>2020-07-20T15:06:35-04:00</updated>
+        <updated>2020-07-20T21:06:35+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://GRaynaud.github.io/gh-pages/media/posts/9/IMG_20200719_151404550.jpg" alt="" />
@@ -253,7 +260,7 @@
             <category term="Literature (french)"/>
             <category term="30 Days Writing Challenge"/>
 
-        <updated>2020-07-06T18:27:38-04:00</updated>
+        <updated>2020-07-07T00:27:38+02:00</updated>
             <summary>
                 <![CDATA[
                     Il n’est rien de meilleur que la pâtisserie : D’abord pétrir la pâte en un berceau fécond, Y disposer des fruits, du sucre, du lait qu’on Enfourne une courte heure où joue la féerie. Oui, la voilà qui monte ! Et la voilà qui dore&hellip;
@@ -279,7 +286,7 @@
             <category term="Literature (french)"/>
             <category term="30 Days Writing Challenge"/>
 
-        <updated>2020-07-04T20:16:58-04:00</updated>
+        <updated>2020-07-05T02:16:58+02:00</updated>
             <summary>
                 <![CDATA[
                      Vaincre l’ennui : voilà l’audacieux programme ; Soupeser chaque son, ses consonnes rugueuses, Savourer le frisson de voyelles fougueuses ; La poésie nous offre à tous les vers un brame. Je la crois dévouée à tant d’inavouable, Attente délétère où l’on tente un accord,&hellip;
@@ -307,7 +314,7 @@
             <category term="Literature (french)"/>
             <category term="30 Days Writing Challenge"/>
 
-        <updated>2020-07-03T12:49:14-04:00</updated>
+        <updated>2020-07-03T18:49:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Voici un court essai de vers rhopaliques proposés pour notre défi, toujours en temps limité. Dans sa version classique, la contrainte consiste à produire des vers dont le nombre de syllabes augmente puis diminue d'un en un. En guise d'exemple, Mon Mont Olympe qui fut&hellip;
